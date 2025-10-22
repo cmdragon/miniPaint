@@ -1,11 +1,12 @@
 {
-	"name": "miniPaint",
-	"short_name": "miniPaint",
-	"start_url": "/",
+	"name": "Photoshop Online - Free Online PS Editor",
+	"short_name": "PS Online",
+	"start_url": "https://photoshop.cmdragon.cn/",
 	"display": "standalone",
 	"orientation": "landscape",
 	"background_color": "#666d6f",
-	"description": "miniPaint is free online image editor using HTML5.",
+	"theme_color": "#666d6f",
+	"description": "Professional Photoshop Online editor - Free online PS tool with advanced photo editing features. No download required.",
 	"icons": [
 		{
 			"src": "images/manifest/48x48.png",

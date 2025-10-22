@@ -1,0 +1,60 @@
+# Robots.txt for Photoshop Online - Free Online PS Editor
+# https://photoshop.cmdragon.cn/
+
+User-agent: *
+Allow: /
+Disallow: /node_modules/
+Disallow: /src/
+
+# Sitemap location
+Sitemap: https://photoshop.cmdragon.cn/sitemap.xml
+
+# Crawl delay (optional, adjust as needed)
+Crawl-delay: 1
+
+# Popular search engine bots
+User-agent: Googlebot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+User-agent: Slurp
+Allow: /
+
+User-agent: DuckDuckBot
+Allow: /
+
+User-agent: Baiduspider
+Allow: /
+
+User-agent: YandexBot
+Allow: /
+
+# AI Engine Bots
+User-agent: GPTBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: CCBot
+Allow: /
+
+User-agent: anthropic-ai
+Allow: /
+
+User-agent: Claude-Web
+Allow: /
+
+User-agent: cohere-ai
+Allow: /
+
+User-agent: Omgilibot
+Allow: /
+
+User-agent: FacebookBot
+Allow: /
+
+User-agent: Applebot
+Allow: /
