@@ -749,20 +749,12 @@ const menuDefinition = [
 				target: 'help/shortcuts.shortcuts'
 			},
 			{
-				name: 'Report Issues',
-				href: 'https://github.com/viliusle/miniPaint/issues'
-			},
-			{
-				divider: true
-			},
-			{
-				name: 'About',
+				name: 'More Tools',
 				ellipsis: true,
-				target: 'help/about.about'
+				href: 'https://tools.cmdragon.cn/?utm_source=main_paint&utm_medium=menu&utm_campaign=Internal_redirect'
 			}
 		]
 	}
 ];
-
 
 export default menuDefinition;
